@@ -1,4 +1,4 @@
-# Securing-linux-server
+# Securing-linux-server and setting up ufw firewall
 This is a collection of useful commands for securing your linux server
 
 ### Step 1: Enable automatic updates
