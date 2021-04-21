@@ -1,5 +1,5 @@
 # linux-cheat-sheet
-This is a collection of useful Linux/shell-commands
+This is a collection of useful commands for securing your linux server
 
 ## Securing the system
 ### Step 1: Enable automatic updates
